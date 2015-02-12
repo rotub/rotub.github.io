@@ -1,10 +1,7 @@
 # Site settings
 title: rotub*
 email: rohan.nowell@gmail.com
-description: "what?
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description."
+description: "I'm a front end web developer based in Sydney. I have an interest in standards, style guides, and admire side projects. But i also do other things. I surf, skateboard, and i love TV (especially documentaries) and movies."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: rotub
