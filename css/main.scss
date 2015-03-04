@@ -6,3 +6,60 @@
 
 @import "normalize";
 @import "skeleton";
+
+/* rotub styles */
+
+body {
+	padding-top: 45px;
+}
+header {
+	position: fixed;
+	top:0;right:0;left:0;
+	z-index: 999;
+	padding-bottom: 1px;
+	background: #7534ff; /* Old browsers */
+	background: -moz-linear-gradient(left,  #7534ff 0%, #35EAFF 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#7534ff), color-stop(100%,#35EAFF)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  #7534ff 0%,#35EAFF 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  #7534ff 0%,#35EAFF 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  #7534ff 0%,#35EAFF 100%); /* IE10+ */
+	background: linear-gradient(to right,  #7534ff 0%,#35EAFF 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7534ff', endColorstr='#35EAFF',GradientType=1 ); /* IE6-9 */
+}
+header a { text-decoration: none; }
+header .header-container {
+	background: #f9f9f9;
+}
+header .logo {
+	display: block;
+	padding: 5px 0;
+	color: #aaa;
+	text-align: center;
+}
+.page { }
+.page-heading {
+	text-align: center;
+}
+footer {
+	margin-top: 2.5rem;
+	text-align: center;
+}
+.profile-pic {
+	border-radius: 100%;
+}
+.profile-copy {
+	margin-top: 25px;
+	text-align: left;
+}
+.headroom {
+	transition: transform 200ms linear;
+	-ms-transition: transform 200ms linear;
+}
+.headroom--pinned {
+	transform: translateY(0%);
+	-ms-transform: translateY(0%);
+}
+.headroom--unpinned {
+	transform: translateY(-100%);
+	-ms-transform: translateY(-100%);
+}

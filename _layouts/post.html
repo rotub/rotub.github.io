@@ -5,13 +5,11 @@ layout: default
         <div class="row">
             <div class="twelve column">
 
-				<h1 class="page-heading">{{ page.title }}</h1>
+      				<h1 class="page-heading">{{ page.title }}</h1>
 
-				<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      				<p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} &bull; <span class="time">{{ page.content | number_of_words | append: '.0' | divided_by:180 }}</span>min read</p>
 
-                <p>Reading time - <span class="time">{{ page.content | number_of_words | append: '.0' | divided_by:180 }}</span>min</p>
-
-				{{ content }}
+      				{{ content }}
 
             </div>
         </div>
