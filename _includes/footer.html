@@ -1,20 +1,29 @@
-<footer class="site-footer">
-
-  <div class="container">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="two columns">
+        <img src="https://a.disquscdn.com/uploads/users/193/7740/avatar92.jpg" class="u-max-full-width profile-pic" />
+        </div>
+        <div class="ten columns">
+          <p class="profile-copy"><small>{{ site.description }}</p>
+        </div>
       </div>
-
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+      <div class="row">
+        <div class="twelve column">
+          <p><small><a href="#">Twitter</a> &bull; <a href="#">Github</a> &bull; <a href="#">LinkedIn</a> &bull; <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+          <br>
+          This site is built using Jekyll</small></p>
+        </div>
       </div>
     </div>
+  </footer>
 
-  </div>
+  <script type="text/javascript" src="js/headroom.min.js"></script>
+  <script type="text/javascript">
 
-</footer>
+    var myElement = document.querySelector("header");
+
+    var headroom  = new Headroom(myElement);
+
+    headroom.init(); 
+  </script>

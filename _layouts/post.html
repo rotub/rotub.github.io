@@ -1,15 +1,26 @@
 ---
 layout: default
 ---
-<div class="container">
+    <div class="container">
+        <div class="row">
+            <div class="twelve column">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+				<h1 class="page-heading">{{ page.title }}</h1>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+				<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
-</div>
+                <p>Reading time - <span class="time">{{ page.content | number_of_words | append: '.0' | divided_by:180 }}</span>min</p>
+
+				{{ content }}
+
+            </div>
+        </div>
+    </div>
+
+    <script type='text/javascript'>
+      $(document).ready(function() {
+        $(".time").text(function (index, value) {
+          return Math.round(parseFloat(value));
+        });
+      });
+    </script>

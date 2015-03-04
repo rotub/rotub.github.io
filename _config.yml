@@ -1,7 +1,6 @@
 # Site settings
 title: rotub*
-email: rohan.nowell@gmail.com
-description: "I'm a front end web developer at Virgin Mobile. When i'm not working i am watching Seinfeld reruns, science documentaries, and lots of movies. When I'm looking at a screen i am skateboarding or surfing."
+description: "Rohan is a front end developer and wannabe minimalist currently working at Virgin Mobile - building, improving, and simplifying online experiences. Offline he is found traveling, surfing, skateboarding, and binge-watching movies, TV shows and science documentaries."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: rotub
