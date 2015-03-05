@@ -5,12 +5,12 @@
 
 /* rotub styles */
 
-::-moz-selection {
+p::-moz-selection {
 	color: #fff;
 	background: #7534ff; 
 }
 
-::selection {
+p::selection {
 	color: #fff;
 	background: #7534ff;
 } 
