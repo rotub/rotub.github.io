@@ -10,5 +10,6 @@ I've made an effort to make this website about all things outside of work and th
 
 For this post I want to touch on my thought process while updating this website in the past few weeks.
 
-## The web moves fast
+**The web moves fast**
 
+In the couple of years since I built the first version of this site the web has changed a lot. At the time, I wanted to create and build my own CMS, which I did successfully and have been using to update this site for years.
