@@ -9,4 +9,5 @@ categories: news
 I've endeavoured to make this blog about all things _unrelated_ to my work, and instead focus on art, writing, travel, and micro-adventures.
 
 **Learning new things**
+
 Since I created this site in 2008, the web has changed a lot.
