@@ -12,4 +12,4 @@ For this post I want to touch on my thought process while updating this website 
 
 **The web moves fast**
 
-In the couple of years since I built the first version of this site the web has changed a lot. At the time, I wanted to create and build my own CMS, which I did successfully and have been using to update this site for years.
+In the couple of years since I built the first version of this site the web has changed a lot. At the time, I wanted to create and build my own CMS, which I did successfully and have been using to update the site for years. I love simplifying stuff and when I looked into what I needed for a blog Wordpress looked way to _complicated_ for what I needed. So I made a minimal CMS for my needs and it worked great.
