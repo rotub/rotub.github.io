@@ -2,10 +2,17 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Rohan Nowell.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm a website developer working for Virgin Mobile in Sydney.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I have previously worked for Optus, Chook, and UrsaClemenger.
+
+I graduated from UTS with a Bachelor of Business.
+
+In 2013, I skateboarded 85km from Sydney to Wollongong in 12 hours.
+
+Moviies and Rotub\*HN are my latest side projects.
