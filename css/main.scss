@@ -17,7 +17,19 @@
 ::selection {
 	color: #fff;
 	background: #7534ff;
-} 
+}
+
+.text-center {
+	text-align: center;
+}
+
+.remove-margin {
+	margin: 0;
+}
+
+.remove-padding {
+	padding: 0;
+}
 
 
 body {
@@ -47,10 +59,32 @@ header .logo {
 	color: #aaa;
 	text-align: center;
 }
+
+
 .page { }
 .page-heading {
 	text-align: center;
 }
+
+.theme-dr {
+	display: block;
+	width: 10%;
+	height: 1px;
+	line-height:0;
+	margin: 15px auto;
+	padding: 0;
+	border: 0;
+	background: #7534ff; /* Old browsers */
+	background: -moz-linear-gradient(left,  #7534ff 0%, #35EAFF 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#7534ff), color-stop(100%,#35EAFF)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  #7534ff 0%,#35EAFF 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  #7534ff 0%,#35EAFF 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  #7534ff 0%,#35EAFF 100%); /* IE10+ */
+	background: linear-gradient(to right,  #7534ff 0%,#35EAFF 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7534ff', endColorstr='#35EAFF',GradientType=1 ); /* IE6-9 */
+}
+
+
 footer {
 	margin-top: 2.5rem;
 	text-align: center;
