@@ -97,9 +97,9 @@ footer {
 	text-align: left;
 }
 .headroom {
-	transition: transform 200ms linear;
-	-webkit-transition: transform 200ms linear;
-	-ms-transition: transform 200ms linear;
+	transition: transform 500ms linear;
+	-webkit-transition: transform 500ms linear;
+	-ms-transition: transform 500ms linear;
 }
 .headroom--pinned {
 	transform: translateY(0%);
