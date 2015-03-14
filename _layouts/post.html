@@ -3,17 +3,17 @@ layout: default
 ---
     <div class="container">
         <div class="row">
-            <div class="twelve column">
+          <div class="twelve column">
 
-      				<h1 class="page-heading">{{ page.title }}</h1>
+      			<h1 class="page-heading">{{ page.title }}</h1>
 
-      				<p class="text-center remove-margin">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} &bull; <span class="time">{{ page.content | number_of_words | append: '.0' | divided_by:180 }}</span>min read</p>
+      			<p class="text-center remove-margin">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} &bull; <span class="time">{{ page.content | number_of_words | append: '.0' | divided_by:180 }}</span>min read</p>
 
-              <hr class="theme-dr" />
+            <hr class="theme-dr" />
 
-      				{{ content }}
-
-            </div>
+      			{{ content }}
+          
+          </div>
         </div>
     </div>
 

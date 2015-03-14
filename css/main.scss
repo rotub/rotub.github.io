@@ -31,10 +31,10 @@
 	padding: 0;
 }
 
-
 body {
 	padding-top: 45px;
 }
+
 header {
 	position: fixed;
 	top:0;right:0;left:0;
@@ -49,10 +49,13 @@ header {
 	background: linear-gradient(to right,  #7534ff 0%,#35EAFF 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7534ff', endColorstr='#35EAFF',GradientType=1 ); /* IE6-9 */
 }
+
 header a { text-decoration: none; }
+
 header .header-container {
 	background: #f9f9f9;
 }
+
 header .logo {
 	display: block;
 	padding: 5px 0;
@@ -60,8 +63,8 @@ header .logo {
 	text-align: center;
 }
 
-
 .page { }
+
 .page-heading {
 	text-align: center;
 }
@@ -84,6 +87,9 @@ header .logo {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7534ff', endColorstr='#35EAFF',GradientType=1 ); /* IE6-9 */
 }
 
+.articles {
+	padding: 50px 0;
+}
 
 footer {
 	margin-top: 2.5rem;

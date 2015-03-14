@@ -5,13 +5,27 @@ layout: default
         <div class="row">
             <div class="twelve column">
 
-                <ul>
-                  {% for post in site.posts %}
+                <!-- Show last 5 posts here -->
+                <ul class="articles">
+                {% for post in paginator.posts %}
                     <li>
                       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> - <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                     </li>
-                  {% endfor %}
+                {% endfor %}
                 </ul>
+
+                <!-- Pagination links -->
+                {% if paginator.total_pages > 1 %}
+                <div class="pagination text-center">
+                  <div class="page-numbers-info">{{ paginator.page }} / {{ paginator.total_pages }}</div>
+                  {% if paginator.previous_page %}
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pagination-page">&laquo; Prev</a>
+                  {% endif %}
+                  {% if paginator.next_page %}
+                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pagination-page">Next &raquo;</a>
+                  {% endif %}
+                </div>
+                {% endif %}
 
             </div>
         </div>
