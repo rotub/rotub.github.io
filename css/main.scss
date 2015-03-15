@@ -69,6 +69,20 @@ header .logo {
 	text-align: center;
 }
 
+blockquote {
+	position: relative;
+	color: #7534ff;
+	font-size: 1.1em;
+	background: #f9f9f9;
+	margin: 15px 0;
+	padding: 15px;
+	text-align: center;
+}
+
+blockquote p:last-of-type {
+	margin-bottom: 0;
+}
+
 .theme-dr {
 	display: block;
 	width: 10%;
