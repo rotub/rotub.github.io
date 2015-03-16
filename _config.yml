@@ -2,7 +2,7 @@
 title: rotub*
 description: "Rohan is a front end developer and wannabe minimalist at Virgin Mobile - building, improving, and simplifying online experiences. Offline he is found traveling, surfing, skateboarding, and binge-watching TV shows, movies, and science documentaries."
 baseurl: "//rotub.github.io" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "//rotub.github.io" # the base hostname & protocol for your site
 twitter: rotub
 github:  rotub
 permalink: /blog/:title.html
