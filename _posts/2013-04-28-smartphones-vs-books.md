@@ -18,7 +18,7 @@ I would very happily read bits and pieces of everything, but when it came to foc
 However, it only took one personally recommended novel (Breath by Tim Winton) for me to get hooked. I finally looked forward to reading every day to discover what would happen next. I realize now that it's not that I didn't like reading - it was that I didn't like the books I had been trying to read.
 Once I finished reading Breath I was worried I wouldnt find another one that would like as much again. But the list of book I love has since grown. Every book I get hooked on becomes my favorite - I almost believe that the best book is the one you are currently reading.
  
-*Reading online*
+**Reading online**
 
 I am admittedly addicted to reading online, though. Despite how much I enjoy reading books its so much easier and natural to reach for my phone and scan through several articles on Hacker News, Medium, Reddit & Twitter.
 
@@ -26,7 +26,7 @@ I have fixed this problem by dedicating my train commutes to reading, preferably
 
 When I pick up a book it is a conscious decision. It's not a habit - but initiating the idea of maybe reading a book instead of random stuff online is.
  
-*Moving forward*
+**Moving forward**
 
 I’m happy to say almost one year has past since I started intentionally reading books, and in that time I have read over
 30 books.
