@@ -1,5 +1,7 @@
 ---
 published: true
+layout: "post,"
+categories: inspiration
 ---
 
 >Put down your smartphone and pick up a book.
