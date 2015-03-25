@@ -8,7 +8,7 @@ categores: inspiration
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/-PVlHmtAWyE" frameborder="0" allowfullscreen></iframe></div>
 
-If you haven't read my story, you can do so here.
+If you haven't read my story, you can do so [here](http://www.rotub.me/blog/my-skate-of-mind.html).
 
 When skateboarding 85km from Sydney to Wollongong was just a possiblity, I planned to tweet the whole journey, take lots of photos, and create a detailed video.
 
@@ -24,4 +24,4 @@ Thanks to everyone who shared, retweeted, Liked and read my story.
 
  
 
-Thanks to Bec for making the video.
+Thanks to [Bec](http://www.becwright.com) for making the video.
