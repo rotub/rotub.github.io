@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ![kidsbooks1](https://cloud.githubusercontent.com/assets/1730420/6816335/128e4be2-d2e6-11e4-9585-b517eee8cd39.jpg)]
