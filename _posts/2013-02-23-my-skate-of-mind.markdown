@@ -6,7 +6,7 @@ categories: news, inspiration, thoughts
 
 > It took me 12 hours to skateboard 85km from Sydney to Wollongong.
 
-![The way down](https://cloud.githubusercontent.com/assets/1730420/6815932/8a07f570-d2e0-11e4-89e7-b2e02dd6de3b.jpg)
+![The way down](https://cloud.githubusercontent.com/assets/1730420/6815943/b5c30826-d2e0-11e4-8261-e24b29d5cef9.jpg)
 
 **Where the idea came from**
 
@@ -58,32 +58,30 @@ Instantly I knew I needed to stay focused on what was immediately in front of me
 
 I was very quick to stop these thoughts. I was going to do it this time. No more negative thoughts.
 
-[img]
-
 **Dark, and scared**
 
 It was so dark. Cloud cover made it darker than night. I found myself 3 hours into the push when i was greeted with the mouth of the M1. It was pitch black. I could not see a thing. I hadn't thought about freeways not having street lights. This is a car coming from behind me:
 
-[img]
+![The darkness of the highway](https://cloud.githubusercontent.com/assets/1730420/6815942/b5c2765e-d2e0-11e4-97e6-082bece3042e.jpg)
 
 This was my first scare. I turned around and thought man that is too dangerous, i'm invisible. But just a few seconds later I forced myself back around and onto my skateboard and just went. No more thinking, I thought.
 
-If it excites you and scares the crap out of you at the same time,
+> If it excites you and scares the crap out of you at the same time,
 it probably means you should do it. - Unknown
 
 **The weather**
 
 It rained heavily, and often. You know those big rain drops that cloud your vision and you can actually feel the weight of each one as they hit your head? The type that makes you wish your car had an even faster mode for its windscreen wipers? Yeah, that kind of rain.
 
-Only in shorts and a T-shirt (because I wanted the least amount of weight as possibile) I was quite cold most the time but i think less weight was worth it in the end.
+![Wet weather](https://cloud.githubusercontent.com/assets/1730420/6815944/b5c6049a-d2e0-11e4-8d5e-d8668a575a48.jpg)
 
-[img]
+Only in shorts and a T-shirt (because I wanted the least amount of weight as possibile) I was quite cold most the time but i think less weight was worth it in the end.
 
 **Freeway**
 
 Convinced the Police would spot me on the highway and it would be all over, I cherished every moment.
 
-[img]
+![Looking down the highway](https://cloud.githubusercontent.com/assets/1730420/6815945/b5c8f736-d2e0-11e4-8750-d89d6694f91b.jpg)
 
 **Feeling silly**
 
@@ -101,7 +99,8 @@ I had imagine myself placing the camera on a post on the side of the road and ti
 
 For those interested - this is the board I used.
 
-[img] 
+
+![The skateboard I used](https://cloud.githubusercontent.com/assets/1730420/6815941/b5bd73c0-d2e0-11e4-95ee-73e6fdd6ed00.jpg)
 
 **The handshake**
 
@@ -126,7 +125,6 @@ My pushing ankle was in too much pain to use. I had swapped to pushing with my l
 A huge smile was on my face when I rolled into Wollongong. I had just removed a big burden from my shoulders. It was no longer a possibility.
 
 It happened. I've done it.
-
 
 
 And I'm never doing it again.
