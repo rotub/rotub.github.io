@@ -4,6 +4,8 @@ layout: post
 categories: news
 ---
 
+![Books > Smartphone](https://cloud.githubusercontent.com/assets/1730420/6816205/ff75186c-d2e3-11e4-9ed8-573f2d64e912.JPG)
+
 >Put down your smartphone and pick up a book.
 
 Flash back to 12 months ago and you will find me on a train heading to work, playing with my iPhone.
