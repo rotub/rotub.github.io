@@ -4,9 +4,9 @@ layout: post
 categores: inspiration
 ---
 
-![kidsbooks1](https://cloud.githubusercontent.com/assets/1730420/6816335/128e4be2-d2e6-11e4-9585-b517eee8cd39.jpg)
-
 > For 26 years of my life I struggled to read and/or complete books.
+
+![kidsbooks1](https://cloud.githubusercontent.com/assets/1730420/6816335/128e4be2-d2e6-11e4-9585-b517eee8cd39.jpg)
 
 In the past 18 months I have worked hard to change that. I have tried and failed many times but this time I have been successful.
 
