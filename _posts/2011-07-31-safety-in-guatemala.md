@@ -2,6 +2,11 @@
 published: true
 ---
 
+---
+layout: post
+categories: travel
+---
+
 ![Guatemala](https://cloud.githubusercontent.com/assets/1730420/6816265/e3d06836-d2e4-11e4-9f11-f66b38b2395b.jpg)
 
 A few days before flying to Guatemala I was only able to find a handful of blogs that had positive or helpful information about the country. It was common to come across scary reports, news articles and statistics that basically described the country as a dangerous, no-go for tourists destination.
