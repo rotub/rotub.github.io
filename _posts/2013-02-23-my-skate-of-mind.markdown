@@ -16,9 +16,7 @@ That day I almost instantly knew i wanted to skateboard from Sydney to Wollongon
 
 But then I started comparing myself to people like Al. You try and do something new and different and someone has done it already, or something even better.
 
-So that is how this idea came about but because of my negative thinking I continued to put it off almost feeling embarrased if I were to do it. Because I was be comparing myself to people who have done greater things. 
-
-[img]
+So that is how this idea came about but because of my negative thinking I continued to put it off almost feeling embarrased if I were to do it. Because I was be comparing myself to people who have done greater things.
 
 **Reasons not to do it this time**
 
