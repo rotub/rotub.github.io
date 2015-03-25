@@ -1,4 +1,4 @@
-![At the summit](https://cloud.githubusercontent.com/assets/1730420/6816899/9f5504c4-d2ed-11e4-91a8-a27472f20225.jpg)
+![At the summit](https://cloud.githubusercontent.com/assets/1730420/6816899/9f5504c4-d2ed-11e4-91a8-a27472f20225.jpg) 
 
 My daily notes while treking up Mt. Kilimanjaro via the Machame "Whiskey" route.
 
@@ -36,7 +36,7 @@ We reached the summit at 7:05am. Sunrise. Perfect timing, as our guide had promi
 
 I developed a slight headache as we were leaving the summit so I ran down the slopes, following our guides who were helping Uli reach more oxygen as he was still looking and feeling pretty bad. I got a really sore stomach half way down to camp. I threw up a little bit. I blame my lack of water more than altitude. My water froze on the way up which meant I only had 1.5 litres for a 10 hour hike (up and down); other days I drank at least 3 litres for only 5-7 hours.
 
-When we reached camp I collapsed in my tent and had a quick nap before lunch, followed by another 3-4 hour hike down to a low altitude camp for our last night.
+When we reached camp I collapsed in my tent and had a quick nap before lunch, followed by another 3-4 hour hike down to a low altitude camp for our last night. 
 
 **Day 6 (3 hours)**
 
