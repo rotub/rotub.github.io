@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: travel
 ---
 
 ![Porters on Mt Kilimanjaro](https://cloud.githubusercontent.com/assets/1730420/6816856/dbb71750-d2ec-11e4-9ec1-65b3be85ddab.JPG)
