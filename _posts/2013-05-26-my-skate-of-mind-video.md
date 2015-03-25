@@ -6,6 +6,8 @@ categores: inspiration
 
 > I skateboarded 85km from Sydney to Wollongong. It took me 12 hours. Here is the video.
 
+<div class="embed-container"><iframe src="https://youtu.be/-PVlHmtAWyE" frameborder="0" allowfullscreen></iframe></div>
+
 If you haven't read my story, you can do so here.
 
 When skateboarding 85km from Sydney to Wollongong was just a possiblity, I planned to tweet the whole journey, take lots of photos, and create a detailed video.
