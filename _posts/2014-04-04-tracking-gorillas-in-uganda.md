@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: travel
 ---
 
 > "Be patient" the armed guard said to our guide. "I will run with the radio back up there and try again. Then if we still don't hear, that's it, we failed and will go back to the office."
