@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 > I skateboarded 85km from Sydney to Wollongong. It took me 12 hours. Here is the video.
