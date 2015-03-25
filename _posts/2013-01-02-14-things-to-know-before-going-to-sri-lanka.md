@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: travel
 ---
 
 ![Sri Lanka](https://cloud.githubusercontent.com/assets/1730420/6819006/38eae642-d30e-11e4-8c85-ee480ca1e273.jpg)
