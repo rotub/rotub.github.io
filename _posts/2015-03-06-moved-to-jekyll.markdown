@@ -10,7 +10,7 @@ I've endeavoured to make this blog about all things _unrelated_ to my work and i
 
 **Cleaned up**
 
-I have removed a lot of old posts. I hand-picked posts to keep and have archived the resst where they are not publicly accessible.
+I have removed a lot of old posts. I hand-picked posts to keep and have archived the rest. They are not publicly accessible.
 
 **Using Jekyll**
 
