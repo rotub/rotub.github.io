@@ -6,7 +6,7 @@ categories: travel
 
 ![Porters on Mt Kilimanjaro](https://cloud.githubusercontent.com/assets/1730420/6816856/dbb71750-d2ec-11e4-9ec1-65b3be85ddab.JPG)
 
-Few people carry more than a single day pack on Mt. Kilimanjaro. All the "stuff" is carred by porters.
+Few people carry more than a single day pack on Mt. Kilimanjaro. All the "stuff" is carried by porters.
 
 Some people opt-out of having a porter and carry their own gear (i think I spotted 3 people in total); it's something I considered but seeing as the question was never asked, I was happy to have porters carry mine.
 
