@@ -1,3 +1,5 @@
+![At the summit](https://cloud.githubusercontent.com/assets/1730420/6816899/9f5504c4-d2ed-11e4-91a8-a27472f20225.jpg)
+
 My daily notes while treking up Mt. Kilimanjaro via the Machame "Whiskey" route.
 
 **Day 1 (5 hours)**
