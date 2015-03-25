@@ -6,7 +6,7 @@ categories: news, inspiration, thoughts
 
 > It took me 12 hours to skateboard 85km from Sydney to Wollongong.
 
-![The way down](https://cloud.githubusercontent.com/assets/1730420/6815943/b5c30826-d2e0-11e4-8261-e24b29d5cef9.jpg)
+![The way down](https://cloud.githubusercontent.com/assets/1730420/6815943/b5c30826-d2e0-11e4-8261-e24b29d5cef9.jpg) 
 
 **Where the idea came from**
 
@@ -62,7 +62,7 @@ I was very quick to stop these thoughts. I was going to do it this time. No more
 
 It was so dark. Cloud cover made it darker than night. I found myself 3 hours into the push when i was greeted with the mouth of the M1. It was pitch black. I could not see a thing. I hadn't thought about freeways not having street lights. This is a car coming from behind me:
 
-![The darkness of the highway](https://cloud.githubusercontent.com/assets/1730420/6815942/b5c2765e-d2e0-11e4-97e6-082bece3042e.jpg)
+![The darkness of the highway](https://cloud.githubusercontent.com/assets/1730420/6815942/b5c2765e-d2e0-11e4-97e6-082bece3042e.jpg) 
 
 This was my first scare. I turned around and thought man that is too dangerous, i'm invisible. But just a few seconds later I forced myself back around and onto my skateboard and just went. No more thinking, I thought.
 
@@ -73,7 +73,7 @@ it probably means you should do it. - Unknown
 
 It rained heavily, and often. You know those big rain drops that cloud your vision and you can actually feel the weight of each one as they hit your head? The type that makes you wish your car had an even faster mode for its windscreen wipers? Yeah, that kind of rain.
 
-![Wet weather](https://cloud.githubusercontent.com/assets/1730420/6815944/b5c6049a-d2e0-11e4-8d5e-d8668a575a48.jpg)
+![Wet weather](https://cloud.githubusercontent.com/assets/1730420/6815944/b5c6049a-d2e0-11e4-8d5e-d8668a575a48.jpg) 
 
 Only in shorts and a T-shirt (because I wanted the least amount of weight as possibile) I was quite cold most the time but i think less weight was worth it in the end.
 
@@ -81,7 +81,7 @@ Only in shorts and a T-shirt (because I wanted the least amount of weight as pos
 
 Convinced the Police would spot me on the highway and it would be all over, I cherished every moment.
 
-![Looking down the highway](https://cloud.githubusercontent.com/assets/1730420/6815945/b5c8f736-d2e0-11e4-8750-d89d6694f91b.jpg)
+![Looking down the highway](https://cloud.githubusercontent.com/assets/1730420/6815945/b5c8f736-d2e0-11e4-8750-d89d6694f91b.jpg) 
 
 **Feeling silly**
 
@@ -100,7 +100,7 @@ I had imagine myself placing the camera on a post on the side of the road and ti
 For those interested - this is the board I used.
 
 
-![The skateboard I used](https://cloud.githubusercontent.com/assets/1730420/6815941/b5bd73c0-d2e0-11e4-95ee-73e6fdd6ed00.jpg)
+![The skateboard I used](https://cloud.githubusercontent.com/assets/1730420/6815941/b5bd73c0-d2e0-11e4-95ee-73e6fdd6ed00.jpg) 
 
 **The handshake**
 
