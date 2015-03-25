@@ -16,5 +16,7 @@ I have removed a lot of old posts. I hand-picked posts to keep and have archived
 
 When I launched _rotub.me_ in January 2011, I built my own CMS from scratch. Using my custom CMS was fine over that last 4 years, but I'm happy to move on from it.
 
-This time I am using Jekyll. It's very simple and doesn't require a database. It's also being hosted for free on Github.com which is nice too.
+This time I am using Jekyll. I chose Jekyll because it is not a CMS, it doesn't require a database, and it can be hosted on Github Pages for free.
+
+I use prose.io to add posts and github issues to upload and host images.
 
