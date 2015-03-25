@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: inspiration, thoughts
 ---
 
 I haven't met any of the following individuals but their stories have stayed with me ever since I stumbled upon them. They're not celebrities but normal every day people who have done something different and therefore created a name for themselves online.
