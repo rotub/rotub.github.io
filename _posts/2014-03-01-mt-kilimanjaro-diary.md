@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: travel, inspiration
 ---
 
 ![At the summit](https://cloud.githubusercontent.com/assets/1730420/6816899/9f5504c4-d2ed-11e4-91a8-a27472f20225.jpg) 
