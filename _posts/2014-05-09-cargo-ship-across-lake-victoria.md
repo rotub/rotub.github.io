@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: travel
 ---
 
 > I travelled from Tanzania to Uganda on a cargo ship.
