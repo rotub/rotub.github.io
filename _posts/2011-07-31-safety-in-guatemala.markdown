@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ![Guatemala](https://cloud.githubusercontent.com/assets/1730420/6816265/e3d06836-d2e4-11e4-9f11-f66b38b2395b.jpg)
