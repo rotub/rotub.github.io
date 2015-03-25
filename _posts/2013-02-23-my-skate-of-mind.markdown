@@ -6,6 +6,7 @@ categories: news, inspiration, thoughts
 
 > It took me 12 hours to skateboard 85km from Sydney to Wollongong.
 
+![The way down](https://cloud.githubusercontent.com/assets/1730420/6815932/8a07f570-d2e0-11e4-89e7-b2e02dd6de3b.jpg)
 
 **Where the idea came from**
 
