@@ -4,10 +4,10 @@ layout: post
 categories: news
 ---
 
-**A few weeks ago** I decided that my site needed a change. Although it was already pretty simple, I wanted to simplify it even further.
+**A few weeks ago** I decided that my site needed a change. It was already pretty simple but I wanted to simplify it even further.
 
-I've endeavoured to make this blog about all things _unrelated_ to my work, and instead focus on art, writing, travel, and micro-adventures.
+I've endeavoured to make this blog about all things _unrelated_ to my work, and instead focus on art, writing, travel, and micro-adventures. I'm still going to try and focus on those things.
 
-**Learning new things**
+**Clean up**
 
-Since I created this site in 2008, the web has changed a lot.
+I have only included popular posts from my website. I've cut the fat and stripped the site back to basics to build from starting now.
