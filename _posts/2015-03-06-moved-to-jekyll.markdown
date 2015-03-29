@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-categories: news
+categories: news 
 ---
 
 **A few weeks ago** I decided that my site needed to change and I have finally got around to doing something about it. I launched this site in January 2011. It hasn't changed much in that time. It's always been a pretty simple blog, but as of today it is even more simplified.
