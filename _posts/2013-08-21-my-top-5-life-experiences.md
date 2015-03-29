@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: travel, inspiration
 ---
 
 I turn 27 next week.
