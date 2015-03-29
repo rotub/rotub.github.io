@@ -10,7 +10,7 @@ I launched this site in January 2011 as a space to explore, experiment, and shar
 
 **Cleaned up**
 
-A few posts over the years have received a lot of attention. I have removed a lot of old posts. I hand-picked posts to keep and have archived the rest. They are not publicly accessible.
+A few posts over the years have received a lot of attention. I hand-picked those posts and a few others... and have archived the rest. They are not publicly accessible.
 
 **Keeping focus**
 
