@@ -1,6 +1,6 @@
 # Site settings
 title: rotub*
-description: "Rohan is a front end developer and wannabe minimalist at Virgin Mobile - building and simplifying online experiences. Offline he is found traveling, surfing, skateboarding, and binge-watching TV shows, movies, and science documentaries. In 2013 he skateboarded 85km from Sydney to Wollongong in 12 hours. He is also the founder and developer behind <a href="//www.moviies.com.au">Moviies</a>."
+description: "Rohan is a front end developer and wannabe minimalist at Virgin Mobile - building and simplifying online experiences. Offline he is found traveling, surfing, skateboarding, and binge-watching TV shows, movies, and science documentaries. In 2013 he skateboarded 85km from Sydney to Wollongong in 12 hours. He is also the founder and developer behind <a href='//www.moviies.com.au'>Moviies</a>."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter: rotub
