@@ -10,7 +10,7 @@ I launched this site in January 2011 as a space to explore, experiment, and shar
 
 **Cleaned up**
 
-A few posts over the years have received a lot of attention. I hand-picked those posts and a few others... and have archived the rest. They are not publicly accessible.
+A few posts over the years have received a lot of attention. I hand-picked those posts and a few others to keep... and have archived the rest. They are not publicly accessible.
 
 **Keeping focus**
 
@@ -22,6 +22,6 @@ When I launched _rotub.me_ in January 2011, I built my own CMS which has worked 
 
 This time I am using Jekyll. I chose Jekyll because it is not a CMS, it doesn't require a database, and it can be hosted on Github Pages for free.
 
-Moving forward I will use prose.io to add new posts and github issues to upload and host images.
+Moving forward I will be using prose.io to add new posts and github issues to upload and host images.
 
 This rotub.me overhaul has been an opportunity to play with some technology such as github, markdown, sass, ruby, and npm. All of which I have wanted to explore but did not have a use (excuse) for until now.
