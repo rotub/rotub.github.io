@@ -4,7 +4,9 @@ layout: post
 categories: news 
 ---
 
-**Many weeks ago** I decided that my site needed to change and I have finally got around to doing something about it. I launched this site in January 2011 as a space to explore, experiment, and share my thoughts and experiences. Today I have taken time to look at what this blog means and made some changes to suit.
+**Many weeks ago** I decided that my site needed to change and I have finally got around to doing something about it.
+
+I launched this site in January 2011 as a space to explore, experiment, and share my thoughts and experiences. I have taken time over the past few weeks to look at what this blog means to me and made some changes.
 
 **Cleaned up**
 
