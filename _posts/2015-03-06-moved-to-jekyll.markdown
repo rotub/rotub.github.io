@@ -4,13 +4,15 @@ layout: post
 categories: news
 ---
 
-**A few weeks ago** I decided that my site needed to change. It was already pretty simple but I wanted to simplify it even further.
-
-I've endeavoured to make this blog about all things _unrelated_ to my work and instead focus on art, writing, travel, and micro-adventures. I'm still going to focus on those things.
+**A few weeks ago** I decided that my site needed to change and I have finally got around to doing something about it. I launched this site in January 2011. It hasn't changed much in that time. It's always been a pretty simple blog, but as of today it is even more simplified.
 
 **Cleaned up**
 
 I have removed a lot of old posts. I hand-picked posts to keep and have archived the rest. They are not publicly accessible.
+
+**Keeping focus**
+
+I've endeavoured to make this blog about all things _unrelated_ to my work and instead focus on art, writing, travel, and micro-adventures. I'm still going to focus on those things.
 
 **Using Jekyll**
 
