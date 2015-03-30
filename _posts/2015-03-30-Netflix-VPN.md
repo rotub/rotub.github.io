@@ -1,6 +1,6 @@
 ---
-published: true,
-layout: post,
+published: true
+layout: post
 categories: entertainment
 ---
 
