@@ -1,5 +1,7 @@
 ---
-published: false
+published: true,
+layout: post,
+categories: entertainment
 ---
 
 Netflix launched in Australia this month and while i didn't plan on using it at all, they are offering your first month as a free trial. I have been using it over the last couple of weeks and i'm actually really impressed.
