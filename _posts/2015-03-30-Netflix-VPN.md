@@ -2,11 +2,16 @@
 published: false
 ---
 
-Netflix launched in Australia this month and while i didn't plan on using it at all, they offer your first month free, so i have been using it over the last couple of weeks and i'm actually really inpressed.
+Netflix launched in Australia this month and while i didn't plan on using it at all, they are offering your first month free as a trial. I have been using it over the last couple of weeks and i'm actually really impressed.
 
-I've consumed Netflix content via my laptop, Playstation 3, iPhone, and streamed to my Chromecast/TV. All of these ways have worked perfectly without lag or connection issues. It is just so easy to use.
+I've consumed Netflix content via my laptop, Playstation 3, iPhone, and streamed to my TV with my Chromecast. All of which have worked perfectly without lag or connectivity issues. It is so easy to use, and each device can pick up from where i left off on another.
 
-There is only one thing holding me back from wanting to stay signed up and start paying the $11.99 per month. Content.
+But. There are two things holding me back from wanting to stay signed up after my free trial and start paying the $11.99 per month. 
 
-I want to be able to watch all my TV shows and movies in one place.
+- Content
+- Offline support
+
+**Content.** I want to be able to watch all my TV shows and movies anywhere and anytime. At this stage i will be paying $11.99 for access to a couple of my shows and a small selection of movies. I realise it's exceptionally difficult to gains liscensing for shows and movies across networks but the reality is services like Popcorn Time exist and already provide exactly that. I realise popcorn time is not exactly legal but knowing it exists for free makes $11.99 seem expensive for such little content.
+
+**Offline Support.** 
 
