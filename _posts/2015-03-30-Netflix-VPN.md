@@ -11,7 +11,7 @@ But. There are two things holding me back from wanting to stay signed up after m
 - Content
 - Offline support
 
-**Content.** I want to be able to watch all my TV shows and movies anywhere and anytime. At this stage i will be paying $11.99 for access to a couple of my shows and a small selection of movies. I realise it's exceptionally difficult to gains liscensing for shows and movies across networks but the reality is services like Popcorn Time exist and already provide exactly that. I realise popcorn time is not exactly legal but knowing it exists for free makes $11.99 seem expensive for such little content.
+**Content.** I want to be able to watch all my TV shows and movies anywhere and anytime. At this stage i will be paying $11.99 for access to a couple of my shows and a small selection of movies. I realise it's exceptionally difficult to gain liscensing for shows and movies across networks but the reality is services like Popcorn Time exist and already provide exactly that. I realise popcorn time is not exactly legal but knowing it exists for free makes $11.99 seem expensive for such little content.
 
 **Offline Support.** 
 
