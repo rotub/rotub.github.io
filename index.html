@@ -19,10 +19,10 @@ layout: default
                 <div class="pagination text-center">
                   <div class="page-numbers-info">{{ paginator.page }} / {{ paginator.total_pages }}</div>
                   {% if paginator.previous_page %}
-                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pagination-page">&laquo; Prev</a>
+                    <a href="{{ paginator.previous_page_path }}" class="pagination-page">&laquo; Prev</a>
                   {% endif %}
                   {% if paginator.next_page %}
-                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pagination-page">Next &raquo;</a>
+                    <a href="{{ paginator.next_page_path }}" class="pagination-page">Next &raquo;</a>
                   {% endif %}
                 </div>
                 {% endif %}
