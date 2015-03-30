@@ -2,7 +2,7 @@
 published: false
 ---
 
-Netflix launched in Australia this month and while i didn't plan on using it at all, they are offering your first month free as a trial. I have been using it over the last couple of weeks and i'm actually really impressed.
+Netflix launched in Australia this month and while i didn't plan on using it at all, they are offering your first month as a free trial. I have been using it over the last couple of weeks and i'm actually really impressed.
 
 I've consumed Netflix content via my laptop, Playstation 3, iPhone, and streamed to my TV with my Chromecast. All of which have worked perfectly without lag or connectivity issues. It is so easy to use, and each device can pick up from where i left off on another.
 
