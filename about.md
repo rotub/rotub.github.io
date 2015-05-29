@@ -11,4 +11,4 @@ By completing my 3-year Bachelor of Business at UTS I have broadened my knowledg
 
 I am the founder and developer behind <a href='//www.moviies.com.au'>Moviies</a> which is my pet side project.
 
-Offline I keep life interesting by traveling, surfing, writing, and challenging myself in various ways- most notably '<a href='/my-skate-of-mind'>My Skate of Mind</a>' where I skateboarded 85km from Sydney to Wollongong in 12 hours.
+Offline I keep life interesting by traveling, surfing, writing, and challenging myself in various ways- most notably '<a href='/blog/my-skate-of-mind'>My Skate of Mind</a>' where I skateboarded 85km from Sydney to Wollongong in 12 hours.
