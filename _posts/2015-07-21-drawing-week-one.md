@@ -12,7 +12,7 @@ I'm happy with my progress but I feel like I have been rushing. I've been focuse
 
 So I decided to go back to the basics. This week I have been drawing spheres and cubes. Exciting stuff. Not really.
 
-As you might expect it's really boring sitting at a table drawing what is essentially circles and squares. I feel like I'm in pre-school again. Except I'm actually a grown man on my lunch break at work.
+As you might expect it's really boring drawing what is essentially circles and squares. I feel like I'm in pre-school again. Except I'm actually a grown man on my lunch break at work.
 
 After drawing a few spheres I get bored. I try drawing a face instead. Somehow the face just doesn't look right. I'm going backwards!
 
