@@ -23,8 +23,8 @@ When I draw something I want it to be perfect. I want it to look like what I see
 
 I expected the finer details to be the hard part. But they're actually the fun part.
 
-Proportion, perspective, and shading literally dictate how the finished drawing will look. If I get those right (or accurate) the drawing looks much better even if it looks to be lacking finer details
+Proportion, perspective, and shading literally dictate how the finished drawing will look. If I get those right (or accurate) the drawing looks much better even if it looks to be lacking finer details.
 
-After all, we can tell who someone is by their silhouette. So we should be able to draw someone's outline and already know who it is without filling in the finer details.
+We can tell who someone is by their silhouette. So we should be able to draw someone's outline and already know who it is without filling in the finer details.
 
 So in that respect drawing circles and squares isn't boring as much it is necessary.
