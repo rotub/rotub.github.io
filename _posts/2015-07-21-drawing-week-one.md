@@ -19,12 +19,12 @@ _After drawing a few spheres I get bored. I try drawing a face instead. Somehow 
 
 > It should be accurate, not perfect.
 
-When I draw something I want it to be perfect. I want it to look like what I see. But really I should be focusing on the proportion and shading. I've noticed proportion and shading only take a few moments to make or break a drawing. Details take hours.
+When I draw something I want it to be perfect. I want it to look like what I see. But really I should be focusing on the proportion and shading. I've noticed proportion and shading only take a few moments to make or break a drawing.
 
 I expected the finer details to be the hard part. But they're actually the fun part.
 
 Proportion, perspective, and shading literally dictates how the finished drawing will look - not the finer details.
 
-After all, we can tell who someone is by their silhouette. So we should be able to draw someone's outline and already know know who it is without filling in the finer details.
+After all, we can tell who someone is by their silhouette. So we should be able to draw someone's outline and already know who it is without filling in the finer details.
 
 So in that respect drawing circles and squares isn't boring as much it is necessary.
