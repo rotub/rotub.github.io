@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 ####Drawing - week one
 
 I made a concious decision to get better at drawing as it is something I've always been interested in but never pursued because I'm not confident in using my hands.
@@ -25,4 +26,5 @@ I expected the finer details to be the hard part. But they're actually the fun p
 The proportion, perspective, and shading literally dictate how the finished drawing will look. Not the finer details.
 
 After all, we can tell who someone is by their silhouette. So we should be able to draw someone's outline and already know know who it is without filling in the finer details.
-****
+
+So in that respect drawing circles and squares isn't boring as much it is necessary.
