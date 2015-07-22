@@ -3,8 +3,6 @@ published: false
 ---
 
 
-
-
 ####Drawing - week one
 
 I made a concious decision to get better at drawing as it is something I've always been interested in but never pursued because I'm not confident in using my hands.
