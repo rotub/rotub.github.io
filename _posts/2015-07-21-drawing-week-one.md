@@ -3,6 +3,7 @@ published: false
 ---
 
 
+
 ####Drawing - week one
 
 I made a concious decision to get better at drawing as it is something I've always been interested in but never pursued because I'm not confident in using my hands.
@@ -13,18 +14,20 @@ I'm happy with my progress but I feel like I have been rushing. I've been focuse
 
 So I decided to go back to the basics. This week I have been drawing spheres and cubes.
 
-As you might expect it's really boring drawing what is essentially circles and squares. I feel like I'm in pre-school again.
+####Boooring
 
-_After drawing a few spheres I get bored. I try drawing a face instead. Somehow the face just doesn't look right. I'm going backwards!_
+As you might expect it's really boring drawing what is essentially circles and squares. I feel like I'm in pre-school again.
 
 > It should be accurate, not perfect.
 
-When I draw something I want it to be perfect. I want it to look like what I see. But really I should be focusing on the proportion and shading. I've noticed proportion and shading only take a few moments to make or break a drawing.
+When I draw something I want it to look like something. I want it to look like what I see. But really I should be focusing on proportion and shading.
 
-I expected the finer details to be the hard part. But they're actually the fun part.
-
-Proportion, perspective, and shading literally dictate how the finished drawing will look. If I get those right (or accurate) the drawing looks much better even if it looks to be lacking finer details.
-
-We can tell who someone is by their silhouette. So we should be able to draw someone's outline and already know who it is without filling in the finer details.
+Proportion, perspective, and shading literally dictate how a finished drawing will look. If I get those right (or accurate) the drawing looks much better, even if it looks to be lacking finer details.
 
 So in that respect drawing circles and squares isn't boring as much it is necessary.
+
+####Getting creative
+
+Even when I believe this... drawing circles still sucks. So I got creative and turned circles into very simple characters. I made them an exact sphere so when I draw them sideways or on an angle I can still start with a _perfect_ circle and let the shading and placement of arms/legs create illusions of which way the characters are facing.
+
+Next week I will try drawing more abstract shapes ay different angles.
