@@ -4,7 +4,7 @@ published: false
 
 ####Finding time
 
-I decided I would get good at drawing and not concern myself with how long it might take. I spend a lot of time on the train each day commuting to and from work. _3-4 hours per day actually_.
+I decided I would get good at drawing and not concern myself with how long it might take because i figured i had a lot of time on my hands in which to learn. I spend a lot of time on the train each day commuting to and from work. _3-4 hours per day actually_.
 
 It's still not easy though. Most the time i dont have a seat on the train or its too bumpy. The idea of having 3 hours of solid practice kind of went out the window.
 
