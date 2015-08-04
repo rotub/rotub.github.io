@@ -5,17 +5,17 @@ layout: post
 
 ![image](https://cloud.githubusercontent.com/assets/1730420/9055643/22971dd2-3ad0-11e5-9082-02aea9fc6ca0.jpg)
 
-![image](https://cloud.githubusercontent.com/assets/1730420/9055642/2295afe2-3ad0-11e5-8e93-30c4793ae06a.jpg)
-
-![image](https://cloud.githubusercontent.com/assets/1730420/9055644/229856e8-3ad0-11e5-937a-1d49577276b2.jpg)
-
-![image](https://cloud.githubusercontent.com/assets/1730420/9055645/22996664-3ad0-11e5-9f42-ee8378f4d77c.jpg)
-
 ####The hardest part about drawing
 
 The hardest part about learning to draw isn't the drawing. It's finding time to draw and then still being motivated once I do.
 
 My daily commute adds up to 3 hours of train travel per day. I thought I would get that time to practice, but I've realised the train isn't an ideal environment for drawing; with its interruptions, bumping, and shaking carriages. And half the time I don't have a seat.
+
+![image](https://cloud.githubusercontent.com/assets/1730420/9055642/2295afe2-3ad0-11e5-8e93-30c4793ae06a.jpg)
+
+![image](https://cloud.githubusercontent.com/assets/1730420/9055644/229856e8-3ad0-11e5-937a-1d49577276b2.jpg)
+
+![image](https://cloud.githubusercontent.com/assets/1730420/9055645/22996664-3ad0-11e5-9f42-ee8378f4d77c.jpg)
 
 ####When I draw
 
