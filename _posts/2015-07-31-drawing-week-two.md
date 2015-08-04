@@ -1,10 +1,11 @@
 ---
-published: false
+published: true
+layout: post
 ---
 
 ####The hardest part about drawing
 
-The hardest part isn't the drawing. It's finding time to draw & still being motivated once I do.
+The hardest part about learning to draw isn't the drawing. It's finding time to draw and then still being motivated once I do.
 
 My daily commute adds up to 3 hours of train travel per day. I thought I would get that time to practice, but I've realised the train isn't an ideal environment for drawing; with its interruptions, bumping, and shaking carriages. And half the time I don't have a seat.
 
