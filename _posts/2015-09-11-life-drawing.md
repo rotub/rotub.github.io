@@ -24,5 +24,5 @@ I didn't get into drawing to learn realism. But every time I draw something I fe
 
 #### Training to love drawing
 
-On my way to and from work I've been trying to have more fun with drawing. It's impossible to draw with precision on the train, so I am forced to take drawing less seriously. I've been drawing commuters and having fun playing around with a different style of drawing.
+On my way to and from work I've been trying to have more fun with drawing. It's impossible to draw with precision on the train, so I am forced to take drawing less seriously. I've been drawing commuters and having fun playing around with a different style.
 
