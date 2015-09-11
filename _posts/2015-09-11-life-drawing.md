@@ -20,5 +20,5 @@ Once I understood this I figured if I get pretty good at drawing faces then sure
 
 Drawing realism from a photo takes a lot of time. It probably takes me an hour to get anything half-decent. It's weird starting with blank paper and thinking 'with this pencil and a bunch of lines I'm going to reproduce this photograph'. It looks impossible and even more so when you know your brain is working against you.
 
-I didn't get into drawing to learn realism. But I can't bring myself to give up on it. Yes it's rediciously hard but my drawings get better. There is always a few things off and it feels good to be aware of and acknowledge what is wrong. Every time I draw I'm trying to improve what I go wrong last time. Often I improve that thing but then another thing slides.
+I didn't get into drawing to learn realism. But every time I draw something I feel like I'm _almost there_. It almost looks awesome. The eyes are just a bit small, the nose is the wrong shape, or the ears are too low, etc. It feels good to be aware of and acknowledge what is wrong. Every time I draw I'm trying to improve what I go wrong last time. Often I improve that thing but then another thing slides.
 
