@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 Learning to draw is hard - really hard. I've been teaching myself how to draw faces and it's not easy. We spend all day looking at faces and instead of that making drawing easier it makes it feel impossible. I find this really interesting.
 
 #### Brain pain
@@ -26,3 +27,4 @@ I didn't get into drawing to learn realism. But every time I draw something I fe
 
 On my way to and from work I've been trying to have more fun with drawing. It's impossible to draw with precision on the train, so I am forced to take drawing less seriously. I've been drawing commuters and having fun playing around with a different style.
 
+I don't try and draw realistic, but i look for peoples distinct features and translate thay to the paper. A bit like a characture.
