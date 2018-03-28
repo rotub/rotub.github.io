@@ -8,7 +8,7 @@ While reading childrens books i developed a new appreciation for them - specific
 
 So i was happy when Rachel Bes approached me and said she was writing a childrens book and wanted to know if i would be interested in illustrating it. She told me she wanted to tell a story about a kid who loves to be brave and try new things. After our first discussion on how we would run things I went home and started designing the character.
 
-###Designing the character
+### Designing the character
 
 I had little idea how to design a character. I had been learning to draw by copying photographs and other people’s work. This was the first time I was creating something from scratch. The amount of possibilities was overwhelming. The learning curve was steep but it proved to be the right time for pursuing these new skills.
 
