@@ -30,13 +30,13 @@ Symbolically, they keep her safe as she explores new grounds. She can tie her ta
 
 Artistically, they can be used to show where she has been, emotions she is feeling, and assist her with doing tasks whether it be climbing, swinging, holding, pulling, etc. The possibilities are endless — much like the list of adventurers she wants to embark on.
 
-####Practice makes progress
+###Practice makes progress
 
 Ironically, the biggest challenge I experienced while illustrating The Little Adventurer was my own improving skills. Every page I finished I compared to the previous and would think to myself “Oh no this one is so much better. I have improved too much, and now I have to redraw the other pages”.
 
 I redrew lots of pages, lots of times. I wanted to make every page perfect. I quickly learned however that my skills, tastes, and style will always be evolving and so my sense of what is perfect will always be evolving too.
 
-####Drawn to life
+###Drawn to life
 
 I started drawing two years ago with no goal in mind. Surprisingly that’s how I stayed motivated. If I started drawing with the goal of illustrating this book I would have failed. I learned to draw so I could draw — not so I could create a book.
 
