@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 4 years ago I started reading childrens books which helped me build confidence in reading books cover-to-cover. It didn’t take long before I moved on to adult books and it has stayed with me — recently I've finished reading The Martian, The Barefoot Investor, and Elon Musk’s biography. I’m currently reading Artemius.
 
@@ -46,4 +47,3 @@ Finding time to draw can be difficult. The perfect time to draw turns out to be 
 You can buy it here: http://www.lulu.com/shop/rachel-beswetherick/the-little-adventurer-goes-to-japan/paperback/product-23335774.html
 
 The aim of The Little Adventurer is to inspire kids to be brave and try new things. I think that’s an important message to communicate to boys and girls in todays world.
-
