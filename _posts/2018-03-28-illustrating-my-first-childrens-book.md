@@ -14,7 +14,7 @@ I had little idea how to design a character. I had been learning to draw by copy
 
 It’s an amazing feeling to make something from nothing and here I was creating a person. Calling it a daunting task is an understatement. Every facial or body feature I added, tweaked, or removed in turn changed The Little Adventurers persona.
 
-###Tying down the design
+### Tying down the design
 
 Little did I know how much she would evolve and change the more I got to know her. If you compare the initial sketches to the final design today they look nothing alike. I much prefer today’s design.
 
@@ -30,13 +30,13 @@ Symbolically, they keep her safe as she explores new grounds. She can tie her ta
 
 Artistically, they can be used to show where she has been, emotions she is feeling, and assist her with doing tasks whether it be climbing, swinging, holding, pulling, etc. The possibilities are endless — much like the list of adventurers she wants to embark on.
 
-###Practice makes progress
+### Practice makes progress
 
 Ironically, the biggest challenge I experienced while illustrating The Little Adventurer was my own improving skills. Every page I finished I compared to the previous and would think to myself “Oh no this one is so much better. I have improved too much, and now I have to redraw the other pages”.
 
 I redrew lots of pages, lots of times. I wanted to make every page perfect. I quickly learned however that my skills, tastes, and style will always be evolving and so my sense of what is perfect will always be evolving too.
 
-###Drawn to life
+### Drawn to life
 
 I started drawing two years ago with no goal in mind. Surprisingly that’s how I stayed motivated. If I started drawing with the goal of illustrating this book I would have failed. I learned to draw so I could draw — not so I could create a book.
 
@@ -44,6 +44,6 @@ I was nervous to start this project because it meant drawing was no longer only 
 
 Finding time to draw can be difficult. The perfect time to draw turns out to be the exact moment I feel like doing nothing at all. Essentially, I have time to draw when I don’t feel like drawing. When the inevitable urge comes to sit on the couch and watch TV I know it’s an opportunity to make progress on drawing. Sometimes I seize those opportunities.
 
-You can buy it here: http://www.lulu.com/shop/rachel-beswetherick/the-little-adventurer-goes-to-japan/paperback/product-23335774.html
+You can buy it [here](http://www.lulu.com/shop/rachel-beswetherick/the-little-adventurer-goes-to-japan/paperback/product-23335774.html "Buy a copy of The Little Adventurer goes to Japan").
 
 The aim of The Little Adventurer is to inspire kids to be brave and try new things. I think that’s an important message to communicate to boys and girls in todays world.
