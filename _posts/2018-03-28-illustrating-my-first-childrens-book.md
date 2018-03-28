@@ -8,13 +8,13 @@ While reading childrens books i developed a new appreciation for them - specific
 
 So i was happy when Rachel Bes approached me and said she was writing a childrens book and wanted to know if i would be interested in illustrating it. She told me she wanted to tell a story about a kid who loves to be brave and try new things. After our first discussion on how we would run things I went home and started designing the character.
 
-####Designing the character
+###Designing the character
 
 I had little idea how to design a character. I had been learning to draw by copying photographs and other people’s work. This was the first time I was creating something from scratch. The amount of possibilities was overwhelming. The learning curve was steep but it proved to be the right time for pursuing these new skills.
 
 It’s an amazing feeling to make something from nothing and here I was creating a person. Calling it a daunting task is an understatement. Every facial or body feature I added, tweaked, or removed in turn changed The Little Adventurers persona.
 
-####Tying down the design
+###Tying down the design
 
 Little did I know how much she would evolve and change the more I got to know her. If you compare the initial sketches to the final design today they look nothing alike. I much prefer today’s design.
 
