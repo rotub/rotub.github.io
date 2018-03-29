@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+layout: post
 ---
 ### All you need to know about working for Deliveroo in Amsterdam
 
@@ -56,3 +57,7 @@ Most of my shifts have been at peak times between 5pm-10pm too so that means I u
 Rain and snow are actually a blessing in disguise. It means there are less people out on the road to get in your way.
 
 Surprisingly, the temperature plays zero part in getting tips - I have worked for 4 hours on a -6C night (it wasn't raining) and received ZERO tips all night. However on a relatively warm night when it was raining I receieved a lot of tips! People pity the rain, but they're used to the cold temperatures it seems.
+
+### Signing up for Deliveroo
+
+If you are thinking about joining Deliveroo, as I mentioned before enter my referal code, **RO120601**, when [applying](http://roo.it/RO120601 "Apply here"). You will receieve a bonus for doing so - at the time of writing the bonus is €100.
