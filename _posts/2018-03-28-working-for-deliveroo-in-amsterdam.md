@@ -2,7 +2,7 @@
 published: true
 layout: post
 ---
-### All you need to know about working for Deliveroo in Amsterdam
+#### All you need to know about working for Deliveroo in Amsterdam
 
 Do you live in the Netherlands and considering joining Deliveroo as a rider?
 
@@ -12,7 +12,7 @@ I couldn't find information online about the job - like how much it pays and oth
 
 I've worked more than 94 shifts and completed over 743 deliveries from 254 restaurants.
 
-### How much do you get paid?
+#### How much do you get paid?
 
 The base rate as a freelancer is €5 per delivery.
 
@@ -30,7 +30,7 @@ Since starting I have got €296 in tips. Which is about €3~ per shift on aver
 
 The most I have got in tips from one shift is €13 (plus cash). The most I have received from 1 customer is €7.
 
-### How much cycling do you actually do?
+#### How much cycling do you actually do?
 
 ![]({{stats}}/https://i.imgur.com/VyOAIeQ.jpg)
 
@@ -42,7 +42,7 @@ I've cycled 2225km since starting. That's an average of 23km per shift and 3km p
 
 The most I have cycled in one shift is 44.6km, the shortest is 10.3km.
 
-### What is the weather like?
+#### What is the weather like?
 
 Out of 94 days ... 65 days it has rained. That's 68% of the time.
 
@@ -58,6 +58,6 @@ Rain and snow are actually a blessing in disguise. It means there are less peopl
 
 Surprisingly, the temperature plays zero part in getting tips - I have worked for 4 hours on a -6C night (it wasn't raining) and received ZERO tips all night. However on a relatively warm night when it was raining I receieved a lot of tips! People pity the rain, but they're used to the cold temperatures it seems.
 
-### Signing up for Deliveroo
+#### Signing up for Deliveroo
 
 If you are thinking about joining Deliveroo, as I mentioned before enter my referal code, **RO120601**, when [applying](http://roo.it/RO120601 "Apply here"). You will receieve a bonus for doing so - at the time of writing the bonus is €100.
