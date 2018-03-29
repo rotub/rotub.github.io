@@ -32,7 +32,7 @@ The most I have got in tips from one shift is €13 (plus cash). The most I have
 
 #### How much cycling do you actually do?
 
-![]({{stats}}/https://i.imgur.com/VyOAIeQ.jpg)
+![]({{stats}}https://i.imgur.com/VyOAIeQ.jpg)
 
 Since day one I have completed 743 deliveries. The most I have done in one shift is 14.
 
